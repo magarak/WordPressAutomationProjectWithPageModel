@@ -7,6 +7,8 @@
     <groupId>com.wordpress</groupId>
     <artifactId>WordPressAutomationProjectWithPageModel</artifactId>
     <version>1.0-SNAPSHOT</version>
+         
+     <!-- Cem's change-->
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
