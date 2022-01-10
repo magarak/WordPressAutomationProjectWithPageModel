@@ -11,5 +11,4 @@ public interface Constants {
 
     String webdriver_chrome_driver = "webdriver.chrome.driver";
     String webdriver_gecko_driver = "webdriver.gecko.driver";
-    String irrelevantConst = "irrrrrr";
 }
